@@ -15,6 +15,12 @@ namespace CountdownTimer
         public Form1()
         {
             InitializeComponent();
+            timerCountDown.Start();
+        }
+
+        private void timerCountDown_Tick_1(object sender, EventArgs e)
+        {
+            label1.Text = string.Format("{0:HH:mm:ss}", DateTime.Now);
         }
     }
 }
