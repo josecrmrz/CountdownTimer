@@ -24,10 +24,10 @@
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>false</MapFileExtensions>
     <InstallUrl>https://raw.githubusercontent.com/gs-joser/CountdownTimer/deploy_test/CountdownTimer/publish/</InstallUrl>
-    <MinimumRequiredVersion>1.0.0.3</MinimumRequiredVersion>
+    <MinimumRequiredVersion>1.0.0.4</MinimumRequiredVersion>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <ApplicationRevision>3</ApplicationRevision>
-    <ApplicationVersion>1.0.0.3</ApplicationVersion>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.4</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
