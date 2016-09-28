@@ -37,7 +37,7 @@
             // 
             this.timerCountDown.Enabled = true;
             this.timerCountDown.Interval = 1000;
-            this.timerCountDown.Tick += new System.EventHandler(this.timerCountDown_Tick_1);
+            this.timerCountDown.Tick += new System.EventHandler(this.timerCountDown_Tick);
             // 
             // lblTimer
             // 
@@ -49,6 +49,7 @@
             this.lblTimer.Size = new System.Drawing.Size(417, 108);
             this.lblTimer.TabIndex = 0;
             this.lblTimer.Text = "00:00:00";
+            this.lblTimer.DoubleClick += new System.EventHandler(this.lblTimer_DoubleClick);
             // 
             // TimerForm
             // 
