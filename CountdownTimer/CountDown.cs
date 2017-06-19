@@ -35,6 +35,7 @@ namespace CountdownTimer
 
         private void lblTimer_DoubleClick(object sender, EventArgs e)
         {
+            lblTimer.ForeColor = default(Color);
             timerCountDown.Start();
         }
     }
