@@ -24,7 +24,7 @@
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>false</MapFileExtensions>
     <InstallUrl>https://raw.githubusercontent.com/josecrmrz/CountdownTimer/master/CountdownTimer/publish/</InstallUrl>
-    <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
+    <MinimumRequiredVersion>1.0.0.2</MinimumRequiredVersion>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
     <ApplicationRevision>2</ApplicationRevision>
     <ApplicationVersion>1.0.0.2</ApplicationVersion>

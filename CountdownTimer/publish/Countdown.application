@@ -2,7 +2,7 @@
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
   <assemblyIdentity name="Countdown.application" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="Countdown" asmv2:product="Countdown" xmlns="urn:schemas-microsoft-com:asm.v1" />
-  <deployment install="true" minimumRequiredVersion="1.0.0.0">
+  <deployment install="true" minimumRequiredVersion="1.0.0.2">
     <subscription>
       <update>
         <beforeApplicationStartup />
@@ -21,7 +21,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pQmlXSo0MqGBOnXoPBbOh6DGpvUFAhspXW8YmHG0Zl4=</dsig:DigestValue>
+        <dsig:DigestValue>YVayBWr8n/YMy9CcZW140ktuiWGBn/J8c1cpEmMf5hc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
